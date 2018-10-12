@@ -1,4 +1,4 @@
-Group Project 2: Team Alpha, ACC COSC2325 Fall 2016
+Group Project 2: UltraSonic RangeFinder
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 Range Finder for the arduino using assembly
 
